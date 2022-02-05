@@ -3,15 +3,15 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: external-212c526ddc804211823ac37d729650b6
+- identifier: external-f7b263c64b7e4bf6a48473a69e141adb
   name: I. Electronic Materials and Devices
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about
   weight: 1000
-- identifier: external-faec9100afd24f5faf33a508eb6497ce
+- identifier: external-82509bc9c5c540a49f6ada5745875e75
   name: II. Optical Materials and Devices
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about
   weight: 1010
-- identifier: external-f26b1f8e3bb74bedabda7e91aa93fc98
+- identifier: external-17ad3d75c6b24d339e0190e04982dcf6
   name: III. Magnetic Materials and Devices
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about
   weight: 1020
